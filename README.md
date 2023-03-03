@@ -1,4 +1,4 @@
-# TIL-ps 📝
+# Algorithm-Study 📝
 
 ## Today-I-Learned - Problem Solving
 
